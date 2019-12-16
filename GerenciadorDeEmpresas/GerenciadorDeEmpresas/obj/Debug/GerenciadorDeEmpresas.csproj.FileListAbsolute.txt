@@ -1,0 +1,41 @@
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.exe.config
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.exe
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.pdb
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.CadCliente.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Form1.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Properties.Resources.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.csproj.GenerateResource.Cache
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.csproj.CoreCompileInputs.cache
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.exe
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.pdb
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCContato.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Pesquisa.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCEndereco.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.csprojResolveAssemblyReference.cache
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCCliente.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmContato.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmEndereco.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmFuncionario.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCFuncionario.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmProduto.resources
+C:\Users\Adélia\Desktop\CSHARP\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCProduto.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.exe.config
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.exe
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\bin\Debug\GerenciadorDeEmpresas.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.CadCliente.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Form1.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmContato.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmEndereco.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmFuncionario.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.frmProduto.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Pesquisa.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.Properties.Resources.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCCliente.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCContato.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCEndereco.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCFuncionario.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.UCProduto.resources
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.exe
+C:\Users\laris\OneDrive\Área de Trabalho\GerenciadorDeEmpresas\GerenciadorDeEmpresas\GerenciadorDeEmpresas\obj\Debug\GerenciadorDeEmpresas.pdb
